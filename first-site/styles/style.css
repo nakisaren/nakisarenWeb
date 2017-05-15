@@ -1,0 +1,33 @@
+html {
+  font-size: 10px;
+  font-family: 'Baloo', cursive;
+  padding: 10px;
+}
+
+body {
+	width: 800px;
+	background: #ff9300;
+	margin: auto auto;
+	border: 5px solid black;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	padding: 10px;
+	text-shadow: 1px 1px 1px #ffffff;
+	margin: 0;
+}
+
+p,li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+img {
+	width: 800px;
+	display: block;
+	margin: 0 auto;
+}
